@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AutoGo/.vs
+/AutoGo/bin/Debug/net8.0
+/AutoGo/obj
+/AutoGo/AutoGo.csproj.user
+/AutoGo.StarupLocalDev/bin/Debug/net8.0
+/AutoGo.StarupLocalDev/obj
