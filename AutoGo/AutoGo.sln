@@ -5,7 +5,12 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoGo", "AutoGo.csproj", "{6DA2BDC3-E6C0-4304-9483-42E85ECAD470}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGo.StartupLocalDev", "..\AutoGo.StarupLocalDev\AutoGo.StartupLocalDev.csproj", "{65891CA1-D864-40EE-9844-1B8F63C6B43B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoGo.StartupLocalDev", "..\AutoGo.StarupLocalDev\AutoGo.StartupLocalDev.csproj", "{65891CA1-D864-40EE-9844-1B8F63C6B43B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{979C3C91-B961-4C81-AD40-37E0E1603732}"
+	ProjectSection(SolutionItems) = preProject
+		..\readme.md = ..\readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
